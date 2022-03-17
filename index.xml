@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kplat.is</title>
+    <link>https://kplat.is/</link>
+    <description>Recent content on kplat.is</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://kplat.is/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://kplat.is/about/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kplat.is/about/</guid>
+      <description>I am a Full Stack Developer working at the Blue Brain Project of EPFL. I also hold a Master of Science in Computer Science from Georgia Institute of Technology specializing in Machine Learning. In the past, I have worked as a Full Stack Developer at CERN, right after receiving my Bachelor&amp;rsquo;s Degree from the Aristotle University of Thessaloniki.
+My current goal is to contribute while expanding my knowledge in the field of computer science and full stack development.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://kplat.is/education/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kplat.is/education/</guid>
+      <description>Degrees    Master of Science in Computer Science    📅 09/2019- 12/2021
+📍Atlanta, Georgia, USA 🇺🇸
+✍️️GPA: 3.6/4.0
+I studied for my Master&amp;rsquo;s degree in Computer Science specialising in Machine Learning from September 2019 to December 2021. My completed coursework included Artificial Intelligence for Robotics, Reinforcement Learning, Data &amp;amp; Visual 2022. Analytics, Ethics in AI, Computer Vision, Machine Learning, Machine Learning for Trading, Deep Learning and 2023.</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://kplat.is/experience/</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kplat.is/experience/</guid>
+      <description>Full Stack Developer @ Blue Brain Project/EPFL    📅 07/2021-present
+📍Geneva, Switzerland 🇨🇭
+💻 FastAPI, ReactJS, Kubernetes
+ Contribute in Blue Brain Nexus Forge, a Python framework enabling non-expert users to create and manage knowledge graphs Build Proof of Concept application to input data of different formats in Blue Brain knowledge graph using FastAPI and ReactJS Migrate projects from Openshift to Kubernetes  Full Stack Web Developer @ CERN    📅 05/2017-06/2021</description>
+    </item>
+    
+  </channel>
+</rss>
