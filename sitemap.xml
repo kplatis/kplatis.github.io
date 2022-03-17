@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kplat.is/about/</loc>
+    <loc>https://kplatis.github.io/about/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kplat.is/education/</loc>
+    <loc>https://kplatis.github.io/education/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kplat.is/experience/</loc>
+    <loc>https://kplatis.github.io/experience/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kplat.is/authors/</loc>
+    <loc>https://kplatis.github.io/authors/</loc>
   </url><url>
-    <loc>https://kplat.is/categories/</loc>
+    <loc>https://kplatis.github.io/categories/</loc>
   </url><url>
-    <loc>https://kplat.is/</loc>
+    <loc>https://kplatis.github.io/</loc>
   </url><url>
-    <loc>https://kplat.is/series/</loc>
+    <loc>https://kplatis.github.io/series/</loc>
   </url><url>
-    <loc>https://kplat.is/tags/</loc>
+    <loc>https://kplatis.github.io/tags/</loc>
   </url>
 </urlset>

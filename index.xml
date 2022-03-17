@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>kplat.is</title>
-    <link>https://kplat.is/</link>
+    <link>https://kplatis.github.io/</link>
     <description>Recent content on kplat.is</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kplat.is/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://kplatis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://kplat.is/about/</link>
+      <link>https://kplatis.github.io/about/</link>
       <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kplat.is/about/</guid>
+      <guid>https://kplatis.github.io/about/</guid>
       <description>I am a Full Stack Developer working at the Blue Brain Project of EPFL. I also hold a Master of Science in Computer Science from Georgia Institute of Technology specializing in Machine Learning. In the past, I have worked as a Full Stack Developer at CERN, right after receiving my Bachelor&amp;rsquo;s Degree from the Aristotle University of Thessaloniki.
 My current goal is to contribute while expanding my knowledge in the field of computer science and full stack development.</description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://kplat.is/education/</link>
+      <link>https://kplatis.github.io/education/</link>
       <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kplat.is/education/</guid>
+      <guid>https://kplatis.github.io/education/</guid>
       <description>Degrees    Master of Science in Computer Science    📅 09/2019- 12/2021
 📍Atlanta, Georgia, USA 🇺🇸
 ✍️️GPA: 3.6/4.0
@@ -30,10 +30,10 @@ I studied for my Master&amp;rsquo;s degree in Computer Science specialising in M
     
     <item>
       <title>Experience</title>
-      <link>https://kplat.is/experience/</link>
+      <link>https://kplatis.github.io/experience/</link>
       <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kplat.is/experience/</guid>
+      <guid>https://kplatis.github.io/experience/</guid>
       <description>Full Stack Developer @ Blue Brain Project/EPFL    📅 07/2021-present
 📍Geneva, Switzerland 🇨🇭
 💻 FastAPI, ReactJS, Kubernetes
