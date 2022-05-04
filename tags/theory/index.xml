@@ -13,7 +13,7 @@
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://kplatis.github.io/notes/basic-programming-principles/</guid>
-      <description>Table of contents     Principle of the Least Privilege DRY: Don&amp;rsquo;t Repeat Yourself Composition over Inheritance Single Responsibility / Separation of concerns You aren&amp;rsquo;t going to need it  Principle of the Least Privilege    📖 Wiki page
+      <description>Table of contents     Principle of the Least Privilege DRY: Don&amp;rsquo;t Repeat Yourself Composition over Inheritance Single Responsibility / Separation of concerns You aren&amp;rsquo;t going to need it  🚀 Principle of the Least Privilege    📖 Wiki page
 In computer science, every module must be able to access only the information and resources that are necessary for its legitimate purpose.
 Some examples of POLP are the following:</description>
     </item>
