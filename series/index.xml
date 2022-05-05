@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on kplat.is</title>
-    <link>https://kplatis.github.io/series/</link>
+    <link>https://kplat.is/series/</link>
     <description>Recent content in Series on kplat.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kplatis.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kplat.is/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programming Guide</title>
-      <link>https://kplatis.github.io/series/programming-guide/</link>
+      <link>https://kplat.is/series/programming-guide/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kplatis.github.io/series/programming-guide/</guid>
+      <guid>https://kplat.is/series/programming-guide/</guid>
       <description></description>
     </item>
     

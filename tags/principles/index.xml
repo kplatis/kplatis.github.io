@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>principles on kplat.is</title>
-    <link>https://kplatis.github.io/tags/principles/</link>
+    <link>https://kplat.is/tags/principles/</link>
     <description>Recent content in principles on kplat.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kplatis.github.io/tags/principles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kplat.is/tags/principles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Programming Principles</title>
-      <link>https://kplatis.github.io/notes/basic-programming-principles/</link>
+      <link>https://kplat.is/notes/basic-programming-principles/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kplatis.github.io/notes/basic-programming-principles/</guid>
+      <guid>https://kplat.is/notes/basic-programming-principles/</guid>
       <description>Table of contents     Principle of the Least Privilege DRY: Don&amp;rsquo;t Repeat Yourself Composition over Inheritance Single Responsibility / Separation of concerns You aren&amp;rsquo;t going to need it  🚀 Principle of the Least Privilege    📖 Wiki page
 In computer science, every module must be able to access only the information and resources that are necessary for its legitimate purpose.
 Some examples of POLP are the following:</description>

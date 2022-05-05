@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on kplat.is</title>
-    <link>https://kplatis.github.io/tags/</link>
+    <link>https://kplat.is/tags/</link>
     <description>Recent content in Tags on kplat.is</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kplatis.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kplat.is/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>principles</title>
-      <link>https://kplatis.github.io/tags/principles/</link>
+      <link>https://kplat.is/tags/principles/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kplatis.github.io/tags/principles/</guid>
+      <guid>https://kplat.is/tags/principles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theory</title>
-      <link>https://kplatis.github.io/tags/theory/</link>
+      <link>https://kplat.is/tags/theory/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://kplatis.github.io/tags/theory/</guid>
+      <guid>https://kplat.is/tags/theory/</guid>
       <description></description>
     </item>
     

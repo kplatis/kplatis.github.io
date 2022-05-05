@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on kplat.is</title>
-    <link>https://kplatis.github.io/authors/</link>
+    <link>https://kplat.is/authors/</link>
     <description>Recent content in Authors on kplat.is</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://kplatis.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://kplat.is/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
